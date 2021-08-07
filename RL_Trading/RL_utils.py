@@ -5,7 +5,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 import gym
-import gym_anytrading
 
 from stable_baselines import A2C
 from stable_baselines.common.vec_env import DummyVecEnv
