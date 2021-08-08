@@ -1,0 +1,13 @@
+Dependencies:
+
+- Python = 3.7
+
+- TensorFlow = 1.5
+
+- pip:
+
+   - tensorflow==1.15.0 stable-baselines gym-anytrading gym
+   
+   - stable-baselines3[extra]
+
+   - gym = 0.7.4
