@@ -1,4 +1,5 @@
 # !pip install tensorflow==1.15.0 stable-baselines gym-anytrading gym
+# !pip install stable-baselines3[extra]
 # !pip install mpi4py
 # !pip install finta
 
