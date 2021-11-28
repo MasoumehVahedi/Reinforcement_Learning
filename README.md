@@ -5,7 +5,7 @@ Reinforcement learning is kind of machine learning technique that an agent for i
 For model the environment, Markov Decision Process (MDP) is used.
 
 ## Content
-Reinforcement Learning in Stock Trading.
+Reinforcement Learning in Stock Trading
 
 ## Dataset
 The Huge Stock Market Dataset is available in Kaggle website: https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs
